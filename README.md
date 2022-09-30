@@ -2,7 +2,7 @@
 
 ## About Me!
 
-Hi, I am Julian Berle. I'm a 15 year old software developer student from Amersfoort the Netherlands. I am currently studying at ROC Midden Nederland in Amersfoort, and I'm learning how to code with HTML, CSS and JavaScript.
+Hi, I am Julian Berle. I'm a 15 year old software developer student from the Netherlands. I am currently studying at ROC Midden Nederland in Amersfoort, and I'm learning how to code with HTML, CSS and JavaScript.
 
 ### Connect with me:
 
