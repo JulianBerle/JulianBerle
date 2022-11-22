@@ -1,4 +1,4 @@
-### Hi there, I'm [Julian](https://www.julianberle.nl) 👋 
+### Hi there, I'm [Julian](https://www.julianberle.nl target="_blank") 👋 
 
 ## About Me!
 
@@ -6,9 +6,9 @@ Hi, I am Julian Berle. I'm a 15 year old software developer student from the Net
 
 ### Connect with me:
 
-[<img align="left" alt="julianberle" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://www.julianberle.nl)
-[<img align="left" alt="Discord" width="22px" src="https://www.freeiconspng.com/uploads/discord-black-icon-1.png" />](https://discord.com/users/666934392622415879)
-[<img align="left" alt="E-Mail" width="22px" src="https://www.freeiconspng.com/uploads/envelope-icon-4.png" />](mailto:berlejulian@gmail.com)
+[<img align="left" alt="julianberle" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://www.julianberle.nl target="_blank")
+[<img align="left" alt="Discord" width="22px" src="https://www.freeiconspng.com/uploads/discord-black-icon-1.png" />](https://discord.com/users/666934392622415879 target="_blank")
+[<img align="left" alt="E-Mail" width="22px" src="https://www.freeiconspng.com/uploads/envelope-icon-4.png" />](mailto:berlejulian@gmail.com target="_blank")
 
 <br />
 
