@@ -2,7 +2,7 @@
 
 ## About Me!
 
-Hi, I am Julian Berle. I'm a 15 year old software developer student from the Netherlands. I started out when I was 13 with some basic LUA development. Over the past years I have learned many new things about many topics. Currently I am studying software development at ROC Midden Nederland in Amersfoort.
+Hi, I am Julian Berle. I'm a 16 year old software developer student from the Netherlands. I started out when I was 13 with some basic LUA development. Over the past years I have learned many new things about many topics. Currently I am studying software development at ROC Midden Nederland in Amersfoort.
 
 ### Connect with me:
 
