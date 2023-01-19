@@ -30,3 +30,4 @@ Hi, I am Julian Berle. I'm a 16 year old software developer student from the Net
 <br />
 
 <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=julianberle&show_icons=true&count_private=true&hide=contribs,prs&theme=dark" alt="My github stats" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JulianBerle&theme=dark"></img>
