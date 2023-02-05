@@ -33,6 +33,6 @@ Hi, I am Julian Berle. I'm a 16 year old software developer student from the Net
 <img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=JulianBerle&theme=dark"</img>
 
 <div style="display: flex; flex-direction: row;">
- <img class="img" src="https://github-readme-stats-sigma-five.vercel.app/api?username=julianberle&show_icons=true&count_private=true&theme=radical" />
- <img class="img" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=JulianBerle3&theme=radical&layout=compact" />
+ <img class="img" src="https://github-readme-stats-sigma-five.vercel.app/api?username=julianberle&show_icons=true&count_private=true&theme=dark" />
+ <img class="img" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=JulianBerle&theme=dark&layout=compact" />
 </div>
