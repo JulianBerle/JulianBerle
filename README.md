@@ -35,4 +35,4 @@ Hi, I am Julian Berle. I'm a 16 year old software developer student from the Net
 </div>
 
 #### Discord Status
-[![Discord Presence](https://lanyard.cnrad.dev/api/425990583384014858?theme=dark)](https://discord.com/users/425990583384014858)
+[![Discord Presence](https://lanyard.cnrad.dev/api/666934392622415879?theme=dark)](https://discord.com/users/666934392622415879)
