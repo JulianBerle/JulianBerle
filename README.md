@@ -34,5 +34,4 @@ Hi, I am Julian Berle. I'm a 16 year old software developer student from the Net
  <img class="img" src="https://github-readme-stats-sigma-five.vercel.app/api?username=julianberle&show_icons=true&count_private=true&theme=dark" />
 </div>
 
-#### Discord Status
 [![Discord Presence](https://lanyard.cnrad.dev/api/666934392622415879?theme=dark)](https://discord.com/users/666934392622415879)
